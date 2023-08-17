@@ -20,7 +20,7 @@ object biblioteca {
 }
 
 object munieco {
-	var peso = 0
+	var peso
 	
 	method color() = celeste
 	method material() = vidrio
